@@ -1,0 +1,1 @@
+A simple news app to show an architectural approach
